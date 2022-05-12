@@ -3,6 +3,10 @@ git commit -m "first commit"
 git branch -M main
 The exponentiation operator (**) returns the result of raising the first operand to the power of the second operand. It is equivalent to Math.pow, except it also accepts BigInts as operands.
 
+0.00206583 BTC
+ ≈ ₴1,653.98
+
+
 Buy 973986861384814592
 Complaining
 50000 RUB
